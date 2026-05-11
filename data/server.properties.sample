@@ -1,0 +1,5 @@
+# Пример конфигурации сервера Minecraft для RCON
+enable-rcon=true
+rcon.port=25575
+rcon.password=yourStrongPassword
+broadcast-rcon-to-ops=true
