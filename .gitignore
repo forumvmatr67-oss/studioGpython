@@ -1,0 +1,15 @@
+.env
+data/*.json
+__pycache__/
+*.pyc
+*.pyo
+*.so
+venv/
+.venv/
+env/
+ENV/
+dist/
+build/
+*.egg-info/
+*.log
+world_backups/
